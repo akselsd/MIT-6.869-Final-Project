@@ -16,3 +16,4 @@ args["out_features"] = 2
 #######################
 
 Model = resnet18
+N_images = 4448
